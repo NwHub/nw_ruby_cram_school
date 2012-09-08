@@ -8,6 +8,15 @@ Ruby及びRuby on Railsのインストールからアプリケーション作成
 
 ・インストール
 ================
+　rvmを利用したRuby ＆　Ruby on Railsのインストール
+　
+　rvm（Ruby Version Manager）とは  
+
+　ruby や railsはバージョンアップが激しく、バージョンが変わると今まで動きがガラリと変わることも珍しくありません。（うかつにバージョンを変えると大変な絶望に襲われます）  
+　そこでruby や railsのバージョン管理ができるrvmを利用してインストールします。  
+　
+　詳しくはWebで  
+　
 　・Mac
 　    
 　    
@@ -17,11 +26,3 @@ Ruby及びRuby on Railsのインストールからアプリケーション作成
 　・Windows  
 　よくわからない  
 　
-　rvmを利用したRuby ＆　Ruby on Railsのインストール
-　
-　rvm（Ruby Version Manager）とは  
-
-　ruby や railsはバージョンアップが激しく、バージョンが変わると今まで動きがガラリと変わることも珍しくありません。（うかつにバージョンを変えると大変な絶望に襲われます）  
-　そこでruby や railsのバージョン管理ができるrvmを利用してインストールします。  
-　
-　詳しくはWebで  
