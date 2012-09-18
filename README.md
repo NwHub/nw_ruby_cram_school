@@ -1,4 +1,4 @@
-nw-ruby-tutorial
+NwHub Ruby 塾
 ================
 
 Rubyのチュートリアル（予定）
